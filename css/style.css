@@ -124,9 +124,10 @@ html{
 }
 
 #services .box img {
-    height: 160px;
+    height: auto;
     display: block;
     margin: auto;
+    max-width: 100%;
 }
 
 #services .box p {
