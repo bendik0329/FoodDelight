@@ -1,7 +1,5 @@
 # FoodDelight
 
-![Capture](https://user-images.githubusercontent.com/87525399/187528031-1c42274e-6168-4261-b6e0-73faed52604c.JPG)
+![Capture](https://user-images.githubusercontent.com/87525399/192847251-a8c75fd4-8253-4e9d-958e-32707fe55725.JPG)
 
-This is a responsive food delivering website made using HTML &amp; CSS 
-
-<a href="https://dhruvpandey08.github.io/FoodDelight/">Visit Here</a>
+<a href="https://dhruvpandey08.github.io/FoodDelight/" target="_blank">Visit Here</a>
